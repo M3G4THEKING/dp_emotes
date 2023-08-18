@@ -1,1 +1,1 @@
-# dp_emotes
+# dp_emotes Discord Bot
